@@ -238,14 +238,14 @@
             font: 18px avenirBook;
         }
         .introDiv span::after{
-            content: "MS CS candidate graduating in May 2021, 2 years of work experience at BNP Paribas \A " 
-                     "Summer 2020 intern at FaceFirst and Fall 2020 intern at The Network pro" ;
+            content: "MS CS candidate graduating in May 2021, 3 years of work experience at BNP Paribas \A " 
+                     "along with 3 internships - Summer 2020, Fall 2020 and Spring 2021" ;
             white-space: pre; 
         }
         @media screen and (max-width: 614px) and (min-width: 575px) {
                 .introDiv span::after{
-                    content: "MS CS candidate graduating in May 2021, 2 years of work experience at BNP Paribas \A " 
-                        "Summer 2020 intern at FaceFirst and Fall 2020 intern at The Network pro" ;
+                    content: "MS CS candidate graduating in May 2021, 3 years of work experience at BNP Paribas \A " 
+                        "along with 3 internships - Summer 2020, Fall 2020 and Spring 2021" ;
                         white-space: pre; 
         }
         }
