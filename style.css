@@ -244,8 +244,8 @@
         }
         @media screen and (max-width: 614px) and (min-width: 575px) {
                 .introDiv span::after{
-                    content: "MS CS candidate graduating in May 2021, 3 years of work experience at BNP Paribas \A " 
-                        "along with 3 internships - Summer 2020, Fall 2020 and Spring 2021" ;
+                    content: "Currently, working as a Software Engineer 2 at VMware \A " 
+                        "having 3+ years of work exp in building full-stack application" ;
                         white-space: pre; 
         }
         }
