@@ -238,14 +238,14 @@
             font: 18px avenirBook;
         }
         .introDiv span::after{
-            content: "Currently, working as a Software Engineer 2 at VMware (Palo Alto) \A " 
-                     "having 3+ years of work exp in building full-stack application" ;
+            content: "Currently, working as a Software Engineer 3 at Walmart (Sunnyvale, California) \A " 
+                     "having 7+ years of work exp in building backend AI/ML application" ;
             white-space: pre; 
         }
         @media screen and (max-width: 614px) and (min-width: 575px) {
                 .introDiv span::after{
-                    content: "Currently, working as a Software Engineer 2 at VMware (Palo Alto) \A " 
-                        "having 3+ years of work exp in building full-stack application" ;
+                    content: "Currently, working as a Software Engineer 3 at Walmart (Sunnyvale, California) \A " 
+                        "having 7+ years of work exp in building backend AI/ML application" ;
                         white-space: pre; 
         }
         }
